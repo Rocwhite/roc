@@ -14,6 +14,3 @@ are, by default, stored in the config/ directory.
 ]]
 
 print ('args:',args)
-
-
-aaaaaa
